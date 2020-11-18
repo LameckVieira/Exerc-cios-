@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.exe
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.deps.json
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\Lameck\Desktop\C#\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\Lameck\Desktop\C#\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.genruntimeconfig.cache
